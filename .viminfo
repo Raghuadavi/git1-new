@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692678352,,"wq"
+|2,0,1692680504,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,61 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/branch1
-|4,48,2,0,1692678352,"~/branch1"
-'1  1  15  ~/fold1
-|4,49,1,15,1692677957,"~/fold1"
+'0  1  6  ~/.gitignore
+|4,48,1,6,1692680504,"~/.gitignore"
+'1  1  0  ~/.gitignore
+|4,49,1,0,1692679416,"~/.gitignore"
+'2  2  0  ~/branch1
+|4,50,2,0,1692678352,"~/branch1"
+'3  1  15  ~/fold1
+|4,51,1,15,1692677957,"~/fold1"
 
 # Jumplist (newest first):
+-'  1  6  ~/.gitignore
+|4,39,1,6,1692680504,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1692679416,"~/.gitignore"
 -'  2  0  ~/branch1
 |4,39,2,0,1692678352,"~/branch1"
+-'  2  0  ~/branch1
+|4,39,2,0,1692678352,"~/branch1"
+-'  2  0  ~/branch1
+|4,39,2,0,1692678352,"~/branch1"
+-'  2  0  ~/branch1
+|4,39,2,0,1692678352,"~/branch1"
+-'  1  0  ~/branch1
+|4,39,1,0,1692678343,"~/branch1"
+-'  1  0  ~/branch1
+|4,39,1,0,1692678343,"~/branch1"
+-'  1  0  ~/branch1
+|4,39,1,0,1692678343,"~/branch1"
 -'  1  0  ~/branch1
 |4,39,1,0,1692678343,"~/branch1"
 -'  1  15  ~/fold1
 |4,39,1,15,1692677957,"~/fold1"
 -'  1  15  ~/fold1
 |4,39,1,15,1692677957,"~/fold1"
+-'  1  15  ~/fold1
+|4,39,1,15,1692677957,"~/fold1"
+-'  1  15  ~/fold1
+|4,39,1,15,1692677957,"~/fold1"
+-'  1  15  ~/fold1
+|4,39,1,15,1692677957,"~/fold1"
+-'  1  15  ~/fold1
+|4,39,1,15,1692677957,"~/fold1"
+-'  1  15  ~/fold1
+|4,39,1,15,1692677957,"~/fold1"
+-'  1  15  ~/fold1
+|4,39,1,15,1692677957,"~/fold1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1692680501	0
+	"	1	6
+	^	1	7
+	.	1	7
+	+	1	7
 
 > ~/branch1
 	*	1692678351	0
